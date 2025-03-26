@@ -20,5 +20,82 @@
       { "text": "120°C", "isCorrect": false }
     ],
     "question": "At what temperature does water boil at sea level?"
+  },
+  {
+    "explanation": "The largest planet in our Solar System is a gas giant known for its Great Red Spot.",
+    "id": 3,
+    "options": [
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": true },
+      { "text": "Saturn", "isCorrect": false }
+    ],
+    "question": "What is the largest planet in our Solar System?"
+  },
+  {
+    "explanation": "The process by which plants convert sunlight into energy is called photosynthesis.",
+    "id": 4,
+    "options": [
+      { "text": "Respiration", "isCorrect": false },
+      { "text": "Fermentation", "isCorrect": false },
+      { "text": "Photosynthesis", "isCorrect": true },
+      { "text": "Digestion", "isCorrect": false }
+    ],
+    "question": "What process do plants use to convert sunlight into energy?"
+  },
+  {
+    "explanation": "The human body typically has 206 bones in adulthood.",
+    "id": 5,
+    "options": [
+      { "text": "195", "isCorrect": false },
+      { "text": "206", "isCorrect": true },
+      { "text": "215", "isCorrect": false },
+      { "text": "220", "isCorrect": false }
+    ],
+    "question": "How many bones are in the adult human body?"
+  },
+  {
+    "explanation": "The first element on the periodic table is Hydrogen, known for being the lightest element.",
+    "id": 6,
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": true },
+      { "text": "Helium", "isCorrect": false },
+      { "text": "Carbon", "isCorrect": false }
+    ],
+    "question": "What is the first element on the periodic table?"
+  },
+  {
+    "explanation": "Mount Everest is the tallest mountain in the world, located in the Himalayas.",
+    "id": 7,
+    "options": [
+      { "text": "K2", "isCorrect": false },
+      { "text": "Kangchenjunga", "isCorrect": false },
+      { "text": "Mount Everest", "isCorrect": true },
+      { "text": "Lhotse", "isCorrect": false }
+    ],
+    "question": "What is the tallest mountain in the world?"
+  },
+  {
+    "explanation": "Shakespeare wrote the tragedy 'Romeo and Juliet', one of his most famous works.",
+    "id": 8,
+    "options": [
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "William Shakespeare", "isCorrect": true },
+      { "text": "Jane Austen", "isCorrect": false },
+      { "text": "Mark Twain", "isCorrect": false }
+    ],
+    "question": "Who wrote 'Romeo and Juliet'?"
+  },
+  {
+    "explanation": "The Great Wall of China is one of the most famous structures built for defense.",
+    "id": 9,
+    "options": [
+      { "text": "Eiffel Tower", "isCorrect": false },
+      { "text": "Great Wall of China", "isCorrect": true },
+      { "text": "Pyramids of Giza", "isCorrect": false },
+      { "text": "Statue of Liberty", "isCorrect": false }
+    ],
+    "question": "Which of the following is an ancient wall built for defense in China?"
   }
 ]
